@@ -1,0 +1,8 @@
+Release/*
+*.bak
+*.o
+*.d
+*.a
+*.elf
+*.hex
+/Release

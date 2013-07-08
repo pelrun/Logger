@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_digital_pin_8h.html" title="Fast Digital Pin functions." alt="" coords="111,155,196,181"/>
+<area shape="rect" id="node9" href="$_i2c_constants_8h.html" title="Two Wire Interface constants." alt="" coords="220,155,327,181"/>
+<area shape="rect" id="node13" href="$_pin_i_o_8h.html" title="Digital AVR port I/O with runtime pin number." alt="" coords="23,155,85,181"/>
+<area shape="rect" id="node17" href="$_soft_i2c_master_8h.html" title="Software I2C library." alt="" coords="305,80,417,107"/>
+<area shape="rect" id="node25" href="$_soft_s_p_i_8h.html" title="Software SPI." alt="" coords="156,80,231,107"/>
+</map>

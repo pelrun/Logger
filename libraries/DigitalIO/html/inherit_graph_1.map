@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_i2c_master_base.html" title="Base class for FastI2cMaster, SoftI2cMaster." alt="" coords="6,31,111,57"/>
+<area shape="rect" id="node3" href="$class_fast_i2c_master.html" title="Fast software I2C master class." alt="" coords="160,5,365,32"/>
+<area shape="rect" id="node5" href="$class_soft_i2c_master.html" title="Software I2C master class." alt="" coords="212,56,313,83"/>
+</map>
